@@ -69,10 +69,10 @@
 ![image](https://github.com/Chloe010/Pparking/assets/129756356/c0ae4724-d365-4046-a100-e2b3fbd67684)
 ![image](https://github.com/Chloe010/Pparking/assets/129756356/b6f7290c-755c-4f98-a283-7659cb14c09b)
 ![image](https://github.com/Chloe010/Pparking/assets/129756356/b77b2912-022a-4b8e-93ed-d56cf3dd478d)
-![Uploading image.png…]()
+![image](https://github.com/Chloe010/Pparking/assets/129756356/1a94f0c7-f0de-48f7-8ac7-9e5c4e45f53b)
+![image](https://github.com/Chloe010/Pparking/assets/129756356/1d975b88-24ab-4c9d-8fbf-dfdd0043af5e)
+![image](https://github.com/Chloe010/Pparking/assets/129756356/4e33da4c-b15e-4b10-87e7-f320452af783)
 
 
-
-
-
-
+### 总结
+###### 在一周的项目实训下，TCBOYS小组从需求分析，项目结构，项目代码编写，总结文档四大步骤有序进行，将项目分工到每一个人的，保证每一个人都了解项目整个具体的架构和运行。从一开始一起学习JavaEE写实体类，学习各类方法的调用和封装，到Servlet和JSP框架的运用，期间无数次出现了找不到路径的404错误和代码调用报错505。我们也都掌握了404下的配置环境修改和505下通过一步步的debug查找代码出现的地方和频率，检查所用方法的调用路径修改和方法名调用出错的问题，最终得以实现项目的运行。
