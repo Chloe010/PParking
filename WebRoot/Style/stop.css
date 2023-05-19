@@ -1,0 +1,18 @@
+.Tab{
+    margin:50px auto;
+}
+.KJ{
+    margin:50px 20%;
+}
+.BTab1{
+    border: 1px;
+    float: left;
+}
+.BTab2{
+    border: 1px;
+    float: left;
+    margin-left: 20%;
+}
+.img{
+    width: 70px;
+}
